@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sreenivassan/static/css/main.4165199f.css",
+    "main.js": "/Sreenivassan/static/js/main.0a0d3fca.js",
+    "static/js/453.acca0757.chunk.js": "/Sreenivassan/static/js/453.acca0757.chunk.js",
+    "index.html": "/Sreenivassan/index.html",
+    "main.4165199f.css.map": "/Sreenivassan/static/css/main.4165199f.css.map",
+    "main.0a0d3fca.js.map": "/Sreenivassan/static/js/main.0a0d3fca.js.map",
+    "453.acca0757.chunk.js.map": "/Sreenivassan/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4165199f.css",
+    "static/js/main.0a0d3fca.js"
+  ]
+}
