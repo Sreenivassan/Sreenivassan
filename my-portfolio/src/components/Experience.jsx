@@ -30,14 +30,20 @@ function Experience() {
         <div className="space-y-2">
           <h2 className="text-2xl font-bold text-gray-800">UI/UX Developer</h2>
           <p className="text-sm text-gray-600">
-            Avons Global Solutions Private Limited, July 2021 – September 2023 · Chennai
+            Avons Global Solutions Private Limited, July 2021 – September 2023 ·
+            Chennai
           </p>
           <ul className="list-disc list-inside text-gray-700 space-y-1">
             <li>
-              Designed and developed responsive user interfaces from wireframes using React and Bootstrap.
+              Designed and developed responsive user interfaces from wireframes
+              using React and Bootstrap.
             </li>
-            <li>Created reusable components to enhance development efficiency.</li>
-            <li>Supported backend integration for seamless user experiences.</li>
+            <li>
+              Created reusable components to enhance development efficiency.
+            </li>
+            <li>
+              Supported backend integration for seamless user experiences.
+            </li>
           </ul>
         </div>
       </div>
