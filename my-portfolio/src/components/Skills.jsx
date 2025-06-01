@@ -1,22 +1,48 @@
-import React from 'react'
+import javascript from "../assetes/images/javascript.png";
+import react from '../assetes/images/react.png';
+import bootstrap from '../assetes/images/bootstarap.png';
+import tailwind from '../assetes/images/tailwind.png';
+import git from '../assetes/images/git.png';
+import postman from '../assetes/images/postman.jpg';
 
 function Skills() {
   return (
-    <section className="py-16 px-8 bg-gray-50" id="skills">
-    <h2 className="text-3xl font-semibold mb-4">Skills</h2>
-   <ul className="flex flex-wrap gap-4">
-  <li className="bg-blue-100 px-4 py-2 rounded">React</li>
-  <li className="bg-blue-100 px-4 py-2 rounded">JavaScript</li>
-  <li className="bg-blue-100 px-4 py-2 rounded">HTML</li>
-  <li className="bg-blue-100 px-4 py-2 rounded">CSS</li>
-  <li className="bg-blue-100 px-4 py-2 rounded">Tailwind CSS</li>
-  <li className="bg-blue-100 px-4 py-2 rounded">Bootstrap</li>
-  <li className="bg-blue-100 px-4 py-2 rounded">Node.js</li>
-  <li className="bg-blue-100 px-4 py-2 rounded">Git</li>
-</ul>
-
-  </section>
-  )
+    <section className="py-16 px-8 bg-white" id="skills">
+      <h2 className="text-3xl font-semibold mb-4">Skills</h2>
+      <div className="flex flex-wrap justify-between gap-4">
+        <img
+            src={javascript}
+            alt="JavaScript Logo"
+            className="w-24 h-24 object-contain rounded-full shadow-lg bg-white p-2"
+          />
+          <img
+            src={react}
+            alt="JavaScript Logo"
+            className="w-24 h-24 object-contain rounded-full shadow-lg bg-white p-2"
+          />
+           <img
+            src={bootstrap}
+            alt="JavaScript Logo"
+            className="w-24 h-24 object-contain rounded-full shadow-lg bg-white p-2"
+          />
+          <img
+            src={tailwind}
+            alt="JavaScript Logo"
+            className="w-24 h-24 object-contain rounded-full shadow-lg bg-white p-2"
+          />
+           <img
+            src={git}
+            alt="JavaScript Logo"
+            className="w-24 h-24 object-contain rounded-full shadow-lg bg-white p-2"
+          />
+           <img
+            src={postman}
+            alt="JavaScript Logo"
+            className="w-24 h-24 object-contain rounded-full shadow-lg bg-white p-2"
+          />
+      </div>
+    </section>
+  );
 }
 
-export default Skills
+export default Skills;

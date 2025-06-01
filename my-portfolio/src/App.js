@@ -5,6 +5,7 @@ import Projects from "./components/Projects";
 import Contacts from "./components/Contacts";
 import Skills from "./components/Skills";
 import Navbar from "./components/Navigation";
+import Experience from "./components/Experience";
 
 function App() {
   return (
@@ -12,8 +13,9 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+       <Skills />
+      <Experience/>
       <Projects />
-      <Skills />
       <Contacts />
     </Fragment>
   );

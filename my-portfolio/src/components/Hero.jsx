@@ -1,4 +1,4 @@
-import React from 'react'
+import profileImg from '../assetes/images/ssss.JPG'
 
 function Hero() {
   return (
@@ -6,8 +6,8 @@ function Hero() {
       <div className="max-w-7xl w-full grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
         {/* Left Text Section */}
         <div className="text-center md:text-left">
-          <h1 className="text-5xl font-bold mb-4">Hi, I'm a React Developer</h1>
-          <p className="text-xl mb-6">Building responsive and dynamic web apps</p>
+          <h1 className="text-5xl font-bold mb-4">Hi, I'm Sreenivassan</h1>
+          <p className="text-xl mb-6">A React Developer building responsive and dynamic web apps</p>
           <div className="flex justify-center md:justify-start gap-4">
             <a
               href="#contact"
@@ -28,9 +28,9 @@ function Hero() {
         {/* Right Image Section */}
         <div className="flex justify-center">
           <img
-            src="/profile.jpg" // ← Place your image in `public/profile.jpg`
+            src={profileImg} 
             alt="Profile"
-            className="w-72 h-72 object-cover rounded-full shadow-lg"
+            className="w-72 h-88 object-cover rounded-full shadow-xl/20"
           />
         </div>
       </div>
