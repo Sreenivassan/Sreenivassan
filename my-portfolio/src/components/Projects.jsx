@@ -1,4 +1,4 @@
-import projectsData from "../util";
+import projectsData from "../utils/projectData";
 
 function Projects() {
   return (
