@@ -7,7 +7,7 @@ function Hero() {
         {/* Left Text Section */}
         <div className="text-center md:text-left">
           <h1 className="text-5xl font-bold mb-4">Hi, I'm Sreenivassan</h1>
-          <p className="text-xl mb-6">A React Developer building responsive and dynamic web apps</p>
+          <p className="text-xl mb-6">A Full-Stack Developer building responsive and dynamic web apps</p>
           <div className="flex justify-center md:justify-start gap-4">
             <a
               href="#contact"

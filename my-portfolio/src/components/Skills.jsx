@@ -4,7 +4,7 @@ import bootstrap from "../assetes/images/bootstarap.png";
 import tailwind from "../assetes/images/tailwind.png";
 import git from "../assetes/images/git.png";
 import postman from "../assetes/images/postman.jpg";
-import CustomImage from "../UI/Image/CustomImage";
+import CustomImage from "../UI/CustomImage";
 
 function Skills() {
   return (
