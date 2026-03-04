@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sreenivassan/static/css/main.6ea9afbb.css",
+    "main.js": "/Sreenivassan/static/js/main.b19466a9.js",
+    "static/js/453.acca0757.chunk.js": "/Sreenivassan/static/js/453.acca0757.chunk.js",
+    "static/media/ssss.JPG": "/Sreenivassan/static/media/ssss.3455f4a84ec72e14eb69.JPG",
+    "static/media/bootstarap.png": "/Sreenivassan/static/media/bootstarap.d8411fac50fa7c6f73b2.png",
+    "static/media/postman.jpg": "/Sreenivassan/static/media/postman.a01921b11d8cd44d5157.jpg",
+    "static/media/tailwind.png": "/Sreenivassan/static/media/tailwind.3d1661cdaab4b3a3b483.png",
+    "static/media/Node.js_logo.svg.webp": "/Sreenivassan/static/media/Node.js_logo.svg.982a60d73ba5db41e3fc.webp",
+    "static/media/git.png": "/Sreenivassan/static/media/git.75f6791b80540cdfa875.png",
+    "static/media/javascript.png": "/Sreenivassan/static/media/javascript.24e770c96d0db6e60282.png",
+    "index.html": "/Sreenivassan/index.html",
+    "main.6ea9afbb.css.map": "/Sreenivassan/static/css/main.6ea9afbb.css.map",
+    "main.b19466a9.js.map": "/Sreenivassan/static/js/main.b19466a9.js.map",
+    "453.acca0757.chunk.js.map": "/Sreenivassan/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea9afbb.css",
+    "static/js/main.b19466a9.js"
+  ]
+}
