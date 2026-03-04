@@ -4,7 +4,7 @@ function CustomExperience({ exp }) {
       <div className="mb-8">
         <h2 className="text-2xl font-bold text-gray-800">{exp.designation}</h2>
 
-        <p className="text-sm text-gray-600">
+        <p className="text-md text-gray-600 font-semibold mt-2">
           {exp.name} | {exp.period} | {exp.place}
         </p>
 
